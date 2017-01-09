@@ -1,5 +1,5 @@
 # boilerplate_sass_gulp
 
-Clone repo
-run $npm install
-run $npm start  
+* Clone repo
+* run $npm install
+* run $npm start  
